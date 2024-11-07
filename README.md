@@ -1,9 +1,7 @@
 # Hi there! I'm Michele 👋
 
 🎓 PhD Researcher in Artificial Intelligence at University of Trento (in collaboration with University of Pisa)
-
 🔬 Working on the application of Machine Learning in the field of Music Information Retreival
-
 🎸 Guitarist, Producer, and Music Enthusiast  
 
 
