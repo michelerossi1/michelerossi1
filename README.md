@@ -1,7 +1,9 @@
 # Hi there! I'm Michele 👋
 
 🎓 PhD Researcher in Artificial Intelligence at University of Trento (in collaboration with University of Pisa)
+
 🔬 Working on the application of Machine Learning in the field of Music Information Retreival
+
 🎸 Guitarist, Producer, and Music Enthusiast  
 
 
@@ -15,15 +17,15 @@ Currently, I’m working on my PhD in **Artifical Intelligence in Music**, and y
 ### 🎚️ Music Production (Mixing & Mastering)
 I also work as a producer, specializing in mixing and mastering for other artists. My main goal is to take budget-friendly audio recordings and elevate them to a professional sound quality:
 
-- **[I Know How To Speak]([link-to-mix-1](https://www.youtube.com/watch?v=Vh0wSRd1TKE&ab_channel=FrancescoBenedettiMusic))** - Francesco Benedetti, songwriter
+- **[I Know How To Speak](https://www.youtube.com/watch?v=Vh0wSRd1TKE&ab_channel=FrancescoBenedettiMusic)** - Francesco Benedetti, songwriter
 - **[ La Mia Banda Suona Il Rock](https://youtu.be/KZYvaEDH3Kk)** - project active durong the covid period
-- **[Il tuo tempo]([link-to-collaboration-1](https://www.youtube.com/watch?v=srwqxcTp8s4&ab_channel=Giovanni%26MicheleOfficial))** - Original song by Giovanni Magnabosco, songwiter
+- **[Il tuo tempo](https://www.youtube.com/watch?v=srwqxcTp8s4&ab_channel=Giovanni%26MicheleOfficial)** - Original song by Giovanni Magnabosco, songwiter
 
 
 ### 🎸 YouTube Channels
 I run two YouTube channels where I share content on my two biggest hobbies: music and mathematics.
 
-- **[Guitar Channel]([link-to-guitar-channel](https://www.youtube.com/@mikeguitar-michelerossi8195))** 🎸 - Guitar tutorials, performances, and more.
-- **[Math Channel]([link-to-math-channel](https://www.youtube.com/@michelerossi8494/videos))** 📐 - Educational videos focused on math concepts and problem-solving techniques.
+- **[Guitar Channel](https://www.youtube.com/@mikeguitar-michelerossi8195)** 🎸 - Guitar tutorials, performances, and more.
+- **[Math Channel](https://www.youtube.com/@michelerossi8494/videos)** 📐 - Educational videos focused on math concepts and problem-solving techniques.
 
 
