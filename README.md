@@ -1,4 +1,4 @@
-# Hi there! I'm Michele 👋
+## Hi there! I'm Michele 👋
 
 🎓 PhD Researcher in Artificial Intelligence at the University of Trento (in collaboration with the University of Pisa)
 
