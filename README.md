@@ -1,15 +1,17 @@
 # Hi there! I'm Michele 👋
 
 🎓 PhD Researcher in Artificial Intelligence at University of Trento (in collaboration with University of Pisa)
+
 🔬 Working on the application of Machine Learning in the field of Music Information Retreival
+
 🎸 Guitarist, Producer, and Music Enthusiast  
 
 
 ## 💼 Academic and Research Projects
 Currently, I’m working on my PhD in **Artifical Intelligence in Music**, and you’ll find some of my research-related projects here on GitHub. Here’s a snapshot:
 
-- **[Automatic classification of chain of guitar effects](https://github.com/michelerossi1/Paper_effects_chain)** - Using genetic algorithms to automatically find DL models to classify chains of guitar effects.
-- **[Dataset augmentation for music emotion recognition](https://github.com/michelerossi1/listening_test_webAPP)** - This repo refers to the web app that I have developed to  investigate the effect of data augmentation on the perceived emotion
+- **[Guitar Effects](https://github.com/michelerossi1/Paper_effects_chain)** - Using genetic algorithms to automatically find DL models to classify chains of guitar effects.
+- **[Dataset augmentation](https://github.com/michelerossi1/listening_test_webAPP)** - Investigate the effect of dataset augmentation in music emotion recognition
 
 
 ### 🎚️ Music Production (Mixing & Mastering)
