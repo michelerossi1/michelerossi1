@@ -18,8 +18,7 @@ Currently, I’m working on my PhD in **Artifical Intelligence in Music**, and y
 I also work as a producer, specializing in mixing and mastering for other artists. My main goal is to take budget-friendly audio recordings and elevate them to a professional sound quality:
 
 - **[I Know How To Speak](https://www.youtube.com/watch?v=Vh0wSRd1TKE&ab_channel=FrancescoBenedettiMusic)** - Francesco Benedetti, songwriter
-- **[ La Mia Banda Suona Il Rock](https://youtu.be/KZYvaEDH3Kk)** - project active durong the covid period
-- **[Il tuo tempo](https://www.youtube.com/watch?v=srwqxcTp8s4&ab_channel=Giovanni%26MicheleOfficial)** - Original song by Giovanni Magnabosco, songwiter
+- **[Uptown Funk](https://youtu.be/4gbPdiRZlCk)** - project active durong the covid period
 
 
 ### 🎸 YouTube Channels
