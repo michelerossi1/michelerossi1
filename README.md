@@ -7,7 +7,7 @@
 🎸 Guitarist, Producer, and Music Enthusiast  
 
 
-## 💼 Academic and Research Projects
+### 💼 Academic and Research Projects
 Currently, I’m working on my PhD in **Artifical Intelligence in Music**, and you’ll find some of my research-related projects here on GitHub. Here’s a snapshot:
 
 - **[Guitar Effects](https://github.com/michelerossi1/Paper_effects_chain)** - Using genetic algorithms to automatically find DL models to classify chains of guitar effects.
